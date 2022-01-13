@@ -1,0 +1,5 @@
+1	ls -al	-1
+2	./while1	3
+3	./while1	5
+4	./while1	1
+10	./while1	6
