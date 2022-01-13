@@ -1,18 +1,37 @@
 # Process Scheduler
 
-This scheduler can complement a scheduler with four scheduling policy, First-In First-Out, Round Robin, Shortest Job First and preemptive SJF respectively.
+-----
 
+>  Team: 
+>
+>  [@Hongbo Wang ](https://github.com/BOBWang1117) 
+>
+>  @Yichu Li
 
+>  
 
-## Development Environment
+## **Environment:**
 
 - System: Linux Ubuntu 
+
 - Language: C++
+
 - Compiler: GNU g++
 
+  
+
+## **Details**:
+
+- Type: term project
+- Teacher: 戴弘宁
+- Computer Language: C
+- Project Name: Process Scheduler
+- Time: 2021/5/5
+- Description: This scheduler can complement a scheduler with four scheduling policy, First-In First-Out, Round Robin, Shortest Job First and preemptive SJF respectively.
 
 
-## How to Run
+
+## How to Run:
 
 ### Compile
 
